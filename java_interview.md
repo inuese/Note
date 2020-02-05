@@ -49,3 +49,7 @@ Software Development Kit의 약자로써 개발을 위한 클래스, 컴파일�
 
 
 - reference;자바, 스프링에 관한 면접예상질문 정리 : https://ktko.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%94%84%EB%A7%81
+
+
+## 클래스, 객체, 인스턴스의 차이
+https://gmlwjd9405.github.io/2018/09/17/class-object-instance.html
